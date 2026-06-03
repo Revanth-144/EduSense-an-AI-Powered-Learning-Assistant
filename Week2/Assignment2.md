@@ -7,7 +7,7 @@ Complete the notebook `Week 2 Assignment.ipynb` and submit it before the deadlin
 
 ## Deadline
 
-**Due:** `[ADD DEADLINE HERE]`
+**Due:** `12/06/2026 11:59PM`
 
 ---
 
@@ -17,4 +17,4 @@ Complete the notebook `Week 2 Assignment.ipynb` and submit it before the deadlin
 2. Run all cells so outputs are visible (especially Part B prints and Part C training loss).
 3. Submit your work using the link below.
 
-**Submission link:** `[ADD SUBMISSION LINK HERE]`
+**Submission link:** `https://forms.gle/ET21JLkTMS26734y7`
