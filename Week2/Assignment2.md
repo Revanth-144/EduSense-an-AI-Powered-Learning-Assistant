@@ -1,7 +1,7 @@
 # Assignment 2 — Submission Guidelines
 
 
-Complete the notebook `Week 2 Assignment.ipynb` and submit it before the deadline.
+Complete the notebook [Week 2 Assignment](Week 2 Assignment.ipynb) and submit it before the deadline.
 
 ---
 
