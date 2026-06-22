@@ -1,6 +1,6 @@
 # Assignment 3 — Submission Guidelines
 
-Complete the notebook **[Week 2 Assignment](Assignment3.ipynb)** and submit it before the deadline.
+Complete the notebook **[Week 3 Assignment](Assignment3.ipynb)** and submit it before the deadline.
 
 ---
 
